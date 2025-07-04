@@ -1,16 +1,28 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narcisse Obadiah
 ========================================================================================================================================
 
-Software Engineer
+Software Engineer | Cloud Native Enthusiast 
 -----------------
 
-• Currently pursuing a path in Software Engineering at 42 Heilbronn🎓 • Proficient in programming languages including Ruby Python, C and C++⛑️ • Experienced in web development, with a strong understanding of HTML, CSS, JavaScript, RoR and React Js • Knowledgeable in blockchain technology and its potential for creating innovative solutions🤠 • Adept at problem-solving and critical thinking, with a track record of successfully completing complex projects🎩 • Skilled in teamwork, having collaborated with others to deliver high-quality products •Passionate about music and its ability to inspire and connect people from diverse backgrounds •Beginner in German🇩🇪, Fluent in English🇱🇷 and French🇫🇷 with strong communication skills🗣️ • Committed to lifelong learning and staying up-to-date with the latest developments in technology👨🏾‍💻 • Seeking opportunities to apply my skills and experience in a challenging and dynamic environment🤾🏻‍♂️
+👋 I am a Software Engineer with a background in fullstack web development and a growing passion for cloud native technologies 💻 Go 🐹 and Kubernetes ☸️
+I started my career building web applications using modern tools and frameworks  where I helped develop and deliver enterprise solutions in a fast paced environment ⚡️
+That experience sparked my curiosity about how systems run in production ⚙️ how they scale 📈 and how to keep them secure 🔐
 
-* 🌍  I'm based in Germany
-* ✉️  You can contact me at [narcisseobadiahdm@gmail.com](mailto:narcisseobadiahdm@gmail.com)
-* 🧠  I'm learning Go, Vue js , DevOPs and Mendix
-* 🤝  I'm open to collaborating on Interresting Project Which will have a huge impact on thousand and thosand people
-* ⚡  I'm bass guitarist with a strong passion for football
+🧠 Right now I’m focused on
+🛠️ Writing APIs and backend services in Go
+🐳 Deploying apps with Docker and Kubernetes
+🔒 Learning Kubernetes security RBAC 🔐 secrets 🔑 image scanning 🧪 and policies 📜
+📡 Exploring observability tools like Prometheus 📊 Grafana 📈 and OpenTelemetry 🛰️
+🧱 Using Infrastructure as Code to automate deployments and configs
+
+📚 Preparing for the Certified Kubernetes Administrator (CKA) exam 🎓 and building hands-on projects to strengthen my skills 🧪
+
+🌍 I speak multiple languages
+🇫🇷 French — native
+🇬🇧 English — fluent
+🇩🇪 German — B1 intermediate
+
+🚀 I’m excited to grow in roles that bring together software development 🧑‍💻 cloud infrastructure ☁️ platform security 🔐 and long-term scalability 🌱 especially in environments supporting AI and data-driven systems 🤖
 
 <a href="https://www.x.com/Narciss198" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Narciss198?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
