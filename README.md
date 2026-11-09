@@ -5,8 +5,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer with a background in full-stack development, currently focusing on Go, Kubernetes, and cloud-native technologies.
 
-Interested in backend engineering, infrastructure, automation, and Kubernetes security.
+Interested in backend engineering, cloud infrastructure, platform engineering, automation, and Kubernetes security.
 
-**Certified Kubernetes Administrator (CKA).**
+**Certified Kubernetes Administrator (CKA) · Aspiring Kubestronaut 🚀**
 
 **Languages:** French (Native) · English (Fluent) · German (B1)
