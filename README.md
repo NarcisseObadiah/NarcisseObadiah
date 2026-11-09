@@ -1,28 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narcisse Obadiah
 ========================================================================================================================================
 
-Software Engineer | Cloud Native Enthusiast 
------------------
+# Software Engineer | Go & Cloud Native
 
-👋 I am a Software Engineer with a background in fullstack web development and a growing passion for cloud native technologies 💻 Go 🐹 and Kubernetes ☸️
-I started my career building web applications using modern tools and frameworks  where I helped develop and deliver enterprise solutions in a fast paced environment ⚡️
-That experience sparked my curiosity about how systems run in production ⚙️ how they scale 📈 and how to keep them secure 🔐
+Software Engineer with a background in full-stack development, currently focusing on Go, Kubernetes, and cloud-native technologies.
 
-🧠 Right now I’m focused on
-🛠️ Writing APIs and backend services in Go
-🐳 Deploying apps with Docker and Kubernetes
-🔒 Learning Kubernetes security RBAC 🔐 secrets 🔑 image scanning 🧪 and policies 📜
-📡 Exploring observability tools like Prometheus 📊 Grafana 📈 and OpenTelemetry 🛰️
-🧱 Using Infrastructure as Code to automate deployments and configs
+Interested in backend engineering, infrastructure, automation, and Kubernetes security.
 
-📚 Preparing for the Certified Kubernetes Administrator (CKA) exam 🎓 and building hands-on projects to strengthen my skills 🧪
+**Certified Kubernetes Administrator (CKA).**
 
-🌍 I speak multiple languages
-🇫🇷 French — native
-🇬🇧 English — fluent
-🇩🇪 German — B1 intermediate
-
-🚀 I’m excited to grow in roles that bring together software development 🧑‍💻 cloud infrastructure ☁️ platform security 🔐 and long-term scalability 🌱 especially in environments supporting AI and data-driven systems 🤖
+**Languages:** French (Native) · English (Fluent) · German (B1)
 
 <a href="https://www.x.com/Narciss198" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Narciss198?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1c1917"
